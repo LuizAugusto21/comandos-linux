@@ -10,5 +10,8 @@ wget https://github.com/Cibiv/IQ-TREE/releases/download/v1.6.12/iqtree-1.6.12-Li
 tar xvzf iqtree-1.6.12-Linux.tar.gz && \
 cd iqtree-1.6.12-Linux/bin/ && \
 sudo cp iqtree /usr/bin/
-
  ```
+FIGTREE:
+```
+sudo apt-get install figtree
+```
